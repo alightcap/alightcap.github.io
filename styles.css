@@ -7,6 +7,9 @@ h1 {
 body {
     text-align: center;
 }
+img{
+    float: left;
+}
 main{
     float: left;
 }
